@@ -129,7 +129,7 @@ input[type="reset"],
 input[type="button"] {
   display: inline-block;
   height: 50px;
-  width:18rem;
+  width: 15rem;
   padding: 0 0 0 5.1rem;
   color: #000;
   text-align: left;
@@ -266,23 +266,23 @@ hr.f {
 
 
 
-  @font-face {
-    font-family:'fabrikat-mono-bold';
-    src:url("../fonts/fabrikat-mono-bold.woff2") format("woff2"),
-    url("../fonts/fabrikat-mono-bold.woff") format("woff"),
-    url("..fonts/fabrikat-mono-bold.ttf") format("truetype");
-    font-weight:700;
-    font-style:normal;
-  }
-  
-  @font-face {
-    font-family:'fabrikat-mono-medium';
-    src:url("../fonts/fabrikat-mono-medium.woff2") format("woff2"),
-    url("../fonts/fabrikat-mono-medium.woff") format("woff"),
-    url("../fonts/fabrikat-mono-medium.ttf") format("truetype");
-    font-weight:500;
-    font-style:normal;
-  }
+@font-face {
+  font-family:'fabrikat-mono-bold';
+  src:url("../fonts/fabrikat-mono-bold.woff2") format("woff2"),
+  url("../fonts/fabrikat-mono-bold.woff") format("woff"),
+  url("..fonts/fabrikat-mono-bold.ttf") format("truetype");
+  font-weight:700;
+  font-style:normal;
+}
+
+@font-face {
+  font-family:'fabrikat-mono-medium';
+  src:url("../fonts/fabrikat-mono-medium.woff2") format("woff2"),
+  url("../fonts/fabrikat-mono-medium.woff") format("woff"),
+  url("../fonts/fabrikat-mono-medium.ttf") format("truetype");
+  font-weight:500;
+  font-style:normal;
+}
 
 
 
